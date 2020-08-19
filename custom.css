@@ -1,0 +1,8 @@
+.blog-cot{
+    font-family:Times;
+    color:red;
+    border:3px solid;
+  }
+  .checked {
+    color: orange;
+  }
