@@ -67,7 +67,7 @@ if(isset($_POST["submit"])){
 					
 					<div class="contact">
                     <div class="alt">
-<form method="post" action="index.php">
+<form method="post" action="register.php">
 <label for="name">Name</label>
 <input type="text" name="name" id="name" placeholder="Enter Your Name here.." /><br />
 <label for="email">Email</label>
